@@ -27,10 +27,10 @@ async def start(_, message: Message):
                     )    
                 ],[ 
                     InlineKeyboardButton(
-                        "➕ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕", url="https://t.me/MusicRoseBot?startgroup=true"
+                        "➕ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕"
                     )]
-            ]
-        ),
+  ]
+
      disable_web_page_preview=True
     )
 
